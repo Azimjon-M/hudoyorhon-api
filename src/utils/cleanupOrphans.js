@@ -8,8 +8,8 @@ const MiniMap = require('../models/MiniMap');
  *
  * Example:
  *   URL:  "http://localhost:5000/uploads/full/abc.jpg"
- *   ROOT: "D:\NodeJS\street-viewer\uploads"
- *   →     "D:\NodeJS\street-viewer\uploads\full\abc.jpg"
+ *   ROOT: "D:\NodeJS\HudoyorhonAPI\uploads"
+ *   →     "D:\NodeJS\HudoyorhonAPI\uploads\full\abc.jpg"
  *
  * @param {string} url        - Stored image URL
  * @param {string} uploadsRoot - Absolute path to uploads directory

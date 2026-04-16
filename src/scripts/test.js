@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const MiniMap = require('./src/models/MiniMap');
 
-mongoose.connect('mongodb://localhost:27017/street-viewer', { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect('mongodb://localhost:27017/hudoyorhon-api', { useNewUrlParser: true, useUnifiedTopology: true })
     .then(async () => {
         const m = await MiniMap.findOne({});
         console.log('Scenes array:', m ? m.scenes : 'No minimap');

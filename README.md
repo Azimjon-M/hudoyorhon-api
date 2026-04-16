@@ -45,7 +45,7 @@ npm run dev
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/street-viewer
+MONGODB_URI=mongodb://localhost:27017/hudoyorhon-api
 
 # JWT
 JWT_SECRET=your_super_secret_key_here
