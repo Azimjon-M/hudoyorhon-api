@@ -1,4 +1,4 @@
-# 🌐 Street Viewer API v2.0.0
+# 🌐 Hudoyorhon API v2.0.0
 
 Ko'p modulli virtual tur backend — 360° panoramik sahnalar, navigatsiya pinlari va mini-xarita konfiguratsiyasini boshqarish uchun REST API.
 
@@ -65,7 +65,7 @@ WHITELISTED_DOMAINS=http://localhost:5173,http://192.168.1.100:5173
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                    Street Viewer API                 │
+│                    Hudoyorhon API                 │
 │                       v2.0.0                        │
 ├─────────────────────────────────────────────────────┤
 │                                                     │
@@ -594,7 +594,7 @@ Bu skript:
 > AI yordamchi yoki developer uchun loyiha konteksti:
 
 ```
-Loyiha: Street Viewer 360° Virtual Tour (React)
+Loyiha: Hudoyorhon 360° Virtual Tour (React)
 API versiya: v2.0.0 (Multi-Module)
 
 Backend API: http://localhost:5000
@@ -696,4 +696,4 @@ Xato: { success: false, message: "...", errors?: [...] }
 
 ---
 
-*Street Viewer API v2.0.0 — Multi-Module Architecture — 2026*
+*Hudoyorhon API v2.0.0 — Multi-Module Architecture — 2026*

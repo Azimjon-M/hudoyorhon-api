@@ -1,7 +1,7 @@
 {
-  "name": "street-viewer",
+  "name": "hudoyorhon-api",
   "version": "1.0.0",
-  "description": "Virtual Tour Street Viewer - Backend API",
+  "description": "Hudoyorhon API - Virtual Tour Backend",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
@@ -14,7 +14,7 @@
     "migrate": "node src/scripts/migrate-to-modules.js"
   },
   "keywords": [
-    "street-viewer",
+    "hudoyorhon",
     "virtual-tour",
     "360",
     "panorama"
